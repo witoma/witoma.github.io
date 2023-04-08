@@ -83,7 +83,7 @@ author:
   name             : "Mark Connick"
   avatar           : "profile.png"
   bio              : "Visiting Research Fellow at QUT"
-  location         : "Location"
+  #location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=mark+connick"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
