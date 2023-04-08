@@ -229,7 +229,7 @@ defaults:
       comments: true
   # _projects
   - scope:
-      path: ""
+      path: "witoma/witoma.github.io"
       type: projects
     values:
       layout: single
