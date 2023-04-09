@@ -220,7 +220,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "witoma/witoma.github.io"
+      path: ""
       type: publications
     values:
       layout: single
@@ -229,7 +229,7 @@ defaults:
       comments: true
   # _projects
   - scope:
-      path: "witoma/witoma.github.io"
+      path: ""
       type: projects
     values:
       layout: single
