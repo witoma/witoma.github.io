@@ -2,7 +2,7 @@
 title: "Shoe Lab"
 excerpt: "Shoe Lab estimates the direct effect of footwear on running economy <br/><img src='/images/500x300.png'>"
 collection: projects
-permalink: /projects/projects-1
+#permalink: /projects/projects-1
 ---
 
 *What is Shoe Lab?*  
@@ -37,5 +37,3 @@ A carbon fiber plate increases the longitudinal bending stiffness of footwear wh
 
 
 The precise biomechanical mechanism between footwear properties and RE have not been identified. However, to quantify the mediating effect of biomechanics first requires a theoretical model which can differentiate between the direct effect of footwear and the indirect effect of biomechanics. Figure 1 shows such a model.  
-
- 
