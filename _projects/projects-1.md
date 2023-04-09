@@ -2,6 +2,7 @@
 title: "Shoe Lab"
 excerpt: "Shoe Lab estimates the direct effect of footwear on running economy <br/><img src='/images/500x300.png'>"
 collection: portfolio
+permalink: /projects/projects-1.md
 ---
 
 *What is Shoe Lab?*  
