@@ -10,7 +10,7 @@ collection: projects
 
 *What is Shoe Lab?*  
 
-Shoe Lab allows you to estimate the direct effect of running footwear on running economy (RE). The <a href="https://gamespeed.shinyapps.io/shoelab/" target="_blank">Shoe Lab</a> app can be found <a href="https://gamespeed.shinyapps.io/shoelab/" target="_blank">here</a>.
+Shoe Lab allows you to estimate the direct effect of footwear on running economy (RE). The <a href="https://gamespeed.shinyapps.io/shoelab/" target="_blank">Shoe Lab</a> app can be found <a href="https://gamespeed.shinyapps.io/shoelab/" target="_blank">here</a>.
 <br>
 
 *What is RE?*  
@@ -21,15 +21,15 @@ RE is a key determinant of distance running performance and is defined as the en
 
 Yes!  
 
-The effect of footwear on RE and therefore performance has changed over the last decade. Traditional footwear technologies (TFTs), comprising shoes available prior to 2016, were not considered to have significant effects on RE. However, available since 2017, Advanced Footwear Technologies (AFTs) are known to significantly improve RE and have revolutionized competitive distance running, being used in world record breaking performances across a range of distances from 5k up to the Marathon.  
+Footwear technology has changed over the preceding decade. Traditional footwear technologies (TFTs), - all available shoes prior to 2016 used TFTs - are not considered to have significantly different effects on RE. Runners selected footwear based on broad design features (e.g., a race shoe or a training shoe) and comfort. However, Advanced Footwear Technologies (AFTs) - which have been available since 2017 - are known to significantly improve RE compared to TFTs and have revolutionized competitive distance running. AFTs have been used in world record breaking performances across a range of distances from 5k up to the Marathon.  
 
 
-*What is the mechanism between footwear and RE?*  
+*What is the mechanism that causes footwear to improve RE?*  
 
-AFTs differ from TFTs in several important ways, the key ones being they have thicker and more resilient midsoles, and they typically contain a curved carbon fiber plate. Both midsole properties and carbon fiber plates can improve RE.  
+AFTs differ from TFTs in several important ways, the key ones being they have thicker and more resilient midsoles, and they typically contain a curved carbon fiber plate. Both midsole properties and carbon fiber plates are believed to contribute to improved RE.  
 
-Midsole properties can inherently affect the foams capacity to act as a spring. The midsole can therefore reduce the cost of cushioning the COM at foot contact and it can increase the energy return during the propulsive phase of ground contact. Both of these are deemed to directly affect COM energetics.  
+Midsole properties affect the foam's capacity to act as a spring. The midsole therefore affects the cost of cushioning and the energy returned during the propulsive phase of ground contact. Both of these effects directly influence COM energetics.  
 
-A carbon fiber plate increases the longitudinal bending stiffness of footwear which reduces the energy lost at the ankle and foot – especially at the metatarsophalangeal (MTP) joint. However, a stiffer carbon fiber plate is not always optimal. Studies indicate an optimal stiffness exists for each person based on individual body size and biomechanics. Carbon fiber plates are therefore linked to changes to mechanical energy at the ankle and foot which indirectly affects COM energetics.  
+A curved carbon fiber plate increases the longitudinal bending stiffness of footwear which reduces the energy lost at the ankle and foot – especially at the metatarsophalangeal (MTP) joint. However, a stiffer carbon fiber plate is not always optimal. Studies indicate an optimal stiffness exists for each person based on individual body size and biomechanics. Carbon fiber plates therefore indirectly affect COM energetics.  
 
-The precise biomechanical mechanism between footwear properties and RE have not been identified. However, to quantify the mediating effect of biomechanics first requires a theoretical model which can differentiate between the direct effect of footwear and the indirect effect of biomechanics. Figure 1 shows such a model.  
+The lower limb biomechanical variables mediating the relationship between footwear properties and RE have not been identified. However, to quantify the mediating effect of biomechanics first requires a theoretical model which can differentiate between the direct effect of footwear and the indirect effect of biomechanics. This  <a href=" " target="_blank">manuscript</a> describes such a model.
