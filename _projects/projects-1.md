@@ -5,6 +5,9 @@ collection: projects
 #permalink: /projects/projects-1
 ---
 
+
+![image info](./images/shoes.webp)  
+
 *What is Shoe Lab?*  
 
 Shoe lab is a tool that allows you to estimate the direct effect of running footwear on running economy (RE).  
