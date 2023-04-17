@@ -6,7 +6,7 @@ collection: projects
 ---
 
 
-![image info](./images/shoes.webp)  
+![image info](/images/shoe_properties1.png)  
 
 *What is Shoe Lab?*  
 
