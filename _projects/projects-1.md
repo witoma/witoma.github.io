@@ -6,7 +6,6 @@ collection: projects
 ---
 
 
-<p align="center">![image info](/images/shoe_properties1.png)</p>  
 
 *What is Shoe Lab?*  
 
