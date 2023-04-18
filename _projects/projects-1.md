@@ -1,6 +1,6 @@
 ---
 title: "Shoe Lab"
-excerpt: "Shoe Lab estimates the direct effect of footwear on running economy <br/><img src='/images/500x300.png'>"
+excerpt: "Shoe Lab estimates the direct effect of footwear on running economy <br/><img src='/images/shoe_app_all.png'>"
 collection: projects
 #permalink: /projects/projects-1
 ---
