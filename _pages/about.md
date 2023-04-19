@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome. I hold a PhD from University of Birmingham, UK and I am passionate about working with effective teams and individuals in sports performance. With expertise in sports biomechanics, exercise physiology, wearable teachnology, modelling and coding, my research aims to discover the mechanisms that operate the relationship between sports technology, biomechanics, physiology and sports performance. By leveraging knowledge and industry expertise I create solutions that can be applied in the real-world environment.  
+Welcome. I hold a PhD from University of Birmingham, UK and I am passionate about working with effective teams and individuals in sports performance.  
+
+With expertise in sports biomechanics, exercise physiology, wearable teachnology, modelling and coding, my research aims to discover the mechanisms that operate the relationship between sports technology, biomechanics, physiology and sports performance.  
+
+By leveraging knowledge and industry expertise I create solutions that can be applied in the real-world environment.  
 
 Originally from England, I studied and worked in Manchester and Birmingham. I am now based in Brisbane, Australia.  
 
