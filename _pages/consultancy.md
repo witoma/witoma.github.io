@@ -5,15 +5,20 @@ permalink: /consultancy/
 author_profile: true
 ---
 
+<p align="middle">
+<img src="/images/Picture30.png" width="100" />  
+
 ## Game Speed  
 
 ### powerful. versatile. efficient.  
 
-*We unlock the potential of GPS and accelerometer data*  
+### We unlock potential   
 
-• At Game Speed, we believe that GPS and accelerometer data holds more potential than is realised. We aim to unlock that potential.  
+We believe that GPS and accelerometer data holds more potential than is realised. We aim to unlock that potential.  
 
-• At Game Speed we provide a data processing service that automates your analytic needs. You spend less time number crunching and more time using the insights from Game Speed to make critical decisions.  
+### We are verstaile  
+
+We provide a data processing service that automates your analytic needs. You spend less time number crunching and more time using the insights to make critical decisions.  
 
 ### We listen  
 
@@ -23,11 +28,9 @@ Your data processing needs are most important.  We listen to your requirements. 
 
 We take care of developing a powerful, versatile and easily-scalable platform to help you generate insights from your data. Our solutions are designed and built to be a perfect fit for big sports data.  
 
-
 ### We work with you  
 
 We stay in close contact during the development process. We work with you to understand and harness the power of your performance data.  
-
 
 ### We support  
 
