@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 <p align="middle">
-<img src="/images/Picture30.png" width="100" />  
+<img src="/images/Picture30.png" width="400" /></p>  
+
+<br>  
 
 ## Game Speed  
 
