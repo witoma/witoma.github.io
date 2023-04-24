@@ -8,7 +8,9 @@ author_profile: true
 <p align="middle">
 <img src="/images/Picture30.png" width="400" /></p>  
 
-### powerful. versatile. efficient.  
+<p align="middle">
+<span style='font-weight: bold;'>powerful. versatile. efficient.</span>  
+</p>  
 
 ### We unlock potential   
 
