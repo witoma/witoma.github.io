@@ -6,3 +6,5 @@ author_profile: true
 ---
 
 ## Game Speed
+
+Coming soon...
