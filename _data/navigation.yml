@@ -8,7 +8,10 @@ main:
     
   - title: "Projects"
     url: /projects/
-        
+
+  - title: "Consultancy"
+    url: /consultancy/
+
   - title: "Posts"
     url: /year-archive/
     
