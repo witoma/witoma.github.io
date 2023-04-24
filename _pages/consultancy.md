@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Consultancy"
+title: ""
 permalink: /consultancy/
 author_profile: true
 ---
