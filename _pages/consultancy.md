@@ -8,10 +8,6 @@ author_profile: true
 <p align="middle">
 <img src="/images/Picture30.png" width="400" /></p>  
 
-<br>  
-
-## Game Speed  
-
 ### powerful. versatile. efficient.  
 
 ### We unlock potential   
