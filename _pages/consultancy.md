@@ -12,10 +12,6 @@ author_profile: true
 <span style='font-weight: bold;'>powerful. versatile. efficient.</span>  
 </p>  
 
-<p align="middle">
-<span style='font-weight: bold;'>Please <a href="/contact/">contact me</a> for more information.</span>  
-</p> 
-
 ### We unlock potential   
 
 We believe that GPS and accelerometer data holds more potential than is realised. We aim to unlock that potential.  
@@ -40,3 +36,6 @@ We stay in close contact during the development process. We work with you to und
 
 Our goal is to help people optimise performance. With experience and knowledge from over 15 years in sports science, we provide consultation and education to sports science staff - please enquire for details.  
 
+<p align="middle">
+<span style='font-weight: bold;'>Please <a href="/contact/">contact me</a> for more information.</span>  
+</p> 
