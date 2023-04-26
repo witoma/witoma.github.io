@@ -12,6 +12,10 @@ author_profile: true
 <span style='font-weight: bold;'>powerful. versatile. efficient.</span>  
 </p>  
 
+<p align="middle">
+<span style='font-weight: bold;'>Please <a href="/contact/">contact me</a> for more information.</span>  
+</p> 
+
 ### We unlock potential   
 
 We believe that GPS and accelerometer data holds more potential than is realised. We aim to unlock that potential.  
