@@ -248,6 +248,15 @@ defaults:
       author_profile: true
       share: true
       comment: true     
+  # contact
+  - scope:
+      path: ""
+      type: contact
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true 
   # _talks
 #  - scope:
 #      path: ""
