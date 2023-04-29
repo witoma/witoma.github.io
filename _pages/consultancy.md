@@ -12,9 +12,13 @@ author_profile: true
 <span style='font-weight: bold;'>powerful. versatile. efficient.</span>  
 </p>  
 
+### We create bespoke solutions   
+
+We develop software that allows you to analyse and monitor the data that you want.  
+
 ### We unlock potential   
 
-We believe that GPS and accelerometer data holds more potential than is realised. We aim to unlock that potential.  
+We believe that wearable technologies such as GPS and accelerometers holds more potential than is realised. We aim to unlock that potential.  
 
 ### We are verstaile  
 
