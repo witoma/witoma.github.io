@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Original research articles
+
 1. Weber, J., Rantalainen, T, Hart, N., Connick, M.J. and Newton, R. (Accepted 30.08.2023). Assessment of ground contact time in the field; evaluation of validity and reliability. Journal of Strength and Conditioning Research.
 
 2.	Southey, B., Willshire, M., Connick, M. J., Austin, D., Spits, D. and Beckman, E. (In press). [Reactive Strength Index as a Key Performance Indicator in Different Athlete Populations – A Systematic Review](https://www.sciencedirect.com/science/article/pii/S0765159723001582?via%3Dihub). Science & Sports. 
