@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mark Connick"
 title_separator          : "-"
 name                     : &name "Mark Connick"
-description              : &description "Sports Performance Consultant & visiting research fellow @ QUT"
+description              : &description "Sports Performance Consultant & postdoctoral research fellow @ QUT"
 url                      : https://www.markconnick.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "witoma/witoma.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mark Connick"
   avatar           : "profile.png"
-  bio              : "Sports Performance Consultant & visiting research fellow @ QUT"
+  bio              : "Sports Performance Consultant & postdoctoral research fellow @ QUT"
   #location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=mark+connick"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "mark.connick@qut.edu.au"
+  email            : "m.connick@ymail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
