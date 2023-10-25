@@ -14,7 +14,11 @@ author_profile: true
 
 ### We create bespoke solutions   
 
-We develop software that allows you to analyse and monitor the data that you want.  
+We develop software that allows you to analyse and monitor the data that you want.
+
+We have produced applications that allow professional sports teams to measure metrics that they want to monitor.
+
+We have developed prototype software applications for startups such as <a href="https://speedsig.com/" target="_blank">SpeedSig</a> including developing a user interface, building player databases, monitoring changes in players over time, developing key performance-related metrics and developing an automated cloud-based platform (AWS).
 
 ### We unlock potential   
 
