@@ -1,6 +1,6 @@
 ---
 title: "Run Speed"
-excerpt: "Run Speed is for distance runners who want to monitor their responses, training volume and speed <br/><img src='/images/shoe_app_all1.png'>"
+excerpt: "Run Speed is for distance runners who want to monitor their responses, training volume and speed <br/>"
 collection: projects
 author_profile: false
 #permalink: /projects/projects-1
