@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 Weber, J., Rantalainen, T, Hart, N., Connick, M.J. and Newton, R. (Accepted 30.08.2023). Assessment of ground contact time in the field; evaluation of validity and reliability. Journal of Strength and Conditioning Research.
 
