@@ -2,7 +2,7 @@
 layout: archive
 title: "Get in touch"
 permalink: /contact/
-author_profile: false
+author_profile: true
 ---
 
 ## Please fill in and submit the form
