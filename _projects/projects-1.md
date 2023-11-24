@@ -10,7 +10,7 @@ author_profile: false
 
 *What is Shoe Lab?*  
 
-Shoe Lab allows you to estimate the direct effect of footwear on running economy (RE). The <a href="https://gamespeed.shinyapps.io/shoelab/" target="_blank">Shoe Lab</a> app can be found <a href="https://gamespeed.shinyapps.io/shoelab/" target="_blank">here</a>.
+Shoe Lab allows you to estimate the direct effect of footwear on running economy (RE). The <a href="https://runspeed.shinyapps.io/shoelab/" target="_blank">Shoe Lab</a> app can be found <a href="https://runspeed.shinyapps.io/shoelab/" target="_blank">here</a>.
 <br>
 
 *What is RE?*  
