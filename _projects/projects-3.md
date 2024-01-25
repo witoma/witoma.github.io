@@ -1,6 +1,6 @@
 ---
 title: "FastR"
-excerpt: "FastR is built for distance runners who want a straightforward way to monitor training responses, volume and speed <br/><img src='/images/fastr10.png'>"
+excerpt: "FastR is built for distance runners who want a straightforward way to monitor training responses, volume and speed <br/><img src='/images/fastr11.png'>"
 collection: projects
 author_profile: false
 #permalink: /projects/projects-1
