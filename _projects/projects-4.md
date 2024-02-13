@@ -10,7 +10,11 @@ author_profile: false
 
 *What is this application?*  
 
+The <a href="https://gamespeed.shinyapps.io/paraclass/" target="_blank">Para sport classification application </a> app can be found <a href="https://gamespeed.shinyapps.io/paraclass/" target="_blank">here</a>.
+
+
 This application recommends a sports class based on a male wheelchair track athlete's strength impairment profile. The work is based on some of my previous research e.g., <a href="https://pubmed.ncbi.nlm.nih.gov/29175826/" target="_blank">this paper</a> which quantified clusters of strength impairment profiles that were consistent with the principle of "evidence-based classification". These principles and the practical implementation can be found <a href="https://pubmed.ncbi.nlm.nih.gov/25134747/" target="_blank">here</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/29627091/" target="_blank">here</a>.
+
 
 *How to use the application*
 
