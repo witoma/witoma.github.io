@@ -10,7 +10,7 @@ author_profile: false
 
 *What is FastR?*  
 
-FastR allows runners to monitor training volume, speed and importantly the responses to the prescribed training volume and speed. The <a href="https://fastr.shinyapps.io/coach/" target="_blank">FastR</a> app can be found <a href="https://fastr.shinyapps.io/coach/" target="_blank">here</a>.
+FastR allows runners to monitor training volume, speed and importantly the responses to prescribed training. The <a href="https://fastr.shinyapps.io/coach/" target="_blank">FastR</a> app can be found <a href="https://fastr.shinyapps.io/coach/" target="_blank">here</a>.
 <br>
 
 *What is the scientific basis for FastR?*  
