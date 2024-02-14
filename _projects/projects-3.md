@@ -17,11 +17,11 @@ FastR allows runners to monitor training volume, speed and importantly the respo
 
 Training load, which is typically a combined measure of volume and intensity, is often used in monitoring systems to ESTIMATE the extent to which training is leading to changes in fatigue, fitness and performance.
 
-FastR works differently in a number of ways.
+FastR works in a different way.
 
-First, FastR monitors volume (distance) and speed separately. Average speed and average training distance over an 8 week period are predictive of running performance - greater average distance at a faster average speed leads to a better performance. FastR allows runners to see the impact of altering volume and speed over time.
+FastR monitors volume (distance) and speed separately. Average speed and average training distance over an 8 week period are predictive of running performance - greater average distance at a faster average speed leads to a better performance. FastR allows runners to see the impact of altering volume and speed over time.
 
-Secondly, FastR calculates a *novel measure of training response*. A positive training response indicates that running economy - a key performance-related measure - is on average improving over time. Increased fatigue or illness will cause a blunted response compared to normal indicating that training is too intense or the runner is completing too much volume. 
+FastR calculates a *novel measure of training response*. A positive training response indicates that running economy - a key performance-related measure - is on average improving over time. Increased fatigue or illness will cause a blunted response compared to normal indicating that training is too intense or the runner is completing too much volume. 
 
 Together, volume, speed and response variables allow runners to MEASURE the extent to which their training prescription affects performance. When a runner increases training volume and/or speed in the build up to a race, the principle is that the runner adjusts training to maintain a positive training response. This is done by adjusting the frequency and the distance of each training session. 
 
