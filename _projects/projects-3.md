@@ -15,7 +15,7 @@ FastR allows runners to monitor training volume, speed and importantly the respo
 
 *What is the scientific basis for FastR?*  
 
-In other systems, training load, which is typically a combined measure of volume and intensity, is used to ESTIMATE the extent to which training is leading to changes in fatigue, fitness and performance.
+Training load, which is typically a combined measure of volume and intensity, is often used in monitoring systems to ESTIMATE the extent to which training is leading to changes in fatigue, fitness and performance.
 
 FastR works differently in a number of ways.
 
