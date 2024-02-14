@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Mark Connick, PhD"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
