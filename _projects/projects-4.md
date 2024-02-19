@@ -1,6 +1,6 @@
 ---
 title: "Para sport classification"
-excerpt: "A machine learning approach to recommending a class for a given strength impairment profile <br/><img src='/images/wheeltrack.png'>"
+excerpt: "A machine learning approach to recommending a class for a given strength impairment profile <br/><img src='/images/wheeltrack2.png'>"
 collection: projects
 author_profile: false
 #permalink: /projects/projects-1
