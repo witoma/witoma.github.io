@@ -1,13 +1,13 @@
 ---
-title: "Optimizing Running Economy Through Footwear: A New Theoretical Framework"
-excerpt: "Examining a recent paper published in Journal of Applied Biomechanics <br/><img src='/images/Framework.JPG'>"
-collection: posts
-author_profile: false
-#permalink: /posts/post-1
---- 
-
-
-
+layout: single
+title:  "Optimizing Running Economy Through Footwear: A New Theoretical Framework"
+header:
+  teaser: "./images/Framework.JPG"
+categories: 
+  - Jekyll
+tags:
+  - footwear
+---
 This article examines a paper published in the Journal of Applied Biomechanics. You can find the paper <a href="https://journals.humankinetics.com/view/journals/jab/41/1/article-p1.xml" target="_blank">here</a>. Before delving into the framework, it’s helpful to first outline the key concepts of running economy, the spring-mass model, and advanced footwear technologies.
 
 
