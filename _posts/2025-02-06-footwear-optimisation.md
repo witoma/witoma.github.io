@@ -4,7 +4,7 @@ title:  "Optimizing Running Economy Through Footwear: A New Theoretical Framewor
 header:
   teaser: "/assets/images/Framework.JPG"
 categories: 
-  - Jekyll
+  - posts
 tags:
   - footwear
 ---
