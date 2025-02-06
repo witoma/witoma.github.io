@@ -2,7 +2,7 @@
 layout: single
 title:  "Optimizing Running Economy Through Footwear: A New Theoretical Framework"
 header:
-  teaser: "./images/Framework.JPG"
+  teaser: "/assets/images/Framework.JPG"
 categories: 
   - Jekyll
 tags:
@@ -26,7 +26,7 @@ Advances in footwear technology over the last 8 years have revolutionized the ru
 Traditional methods for evaluating the impact of footwear on RE have primarily focused on group-level effects, averaging results across runners and attributing performance changes to specific footwear properties, such as a thicker or stiffer midsole or increased energy return. 
 Traditional approaches to evaluating the impact of footwear on RE have primarily considered group-level effects, averaging results across runners, and attributing the average effect to footwear properties such as a thicker or stiffer midsole or greater energy return. However, research shows that individual responses to different footwear technologies vary substantially. To account for the systematic effect of advanced footwear technology and the individual variability, in this paper we propose a theoretical framework that differentiates the direct and biomechanically mediated effects of footwear on RE (see figure below).    
 
-    ![alt text](./images/Framework.JPG "Title")
+    ![Framework](/assets/images/Framework.JPG)
 
 *Direct effects*: Defined in the paper as “the impact of a change in the mechanical properties of footwear on RE while key biomechanical variables remain constant.” In essence, direct effects refer to changes in the spring-mass characteristics of the runner’s system and RE without altering foot and ankle biomechanics in a systematic way. For example, midsole energy return may directly influence the spring-mass system, and these mechanical effects are relatively consistent across runners.    
 
