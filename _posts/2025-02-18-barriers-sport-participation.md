@@ -17,15 +17,15 @@ However, our recently published study, which was led by Dr Iain Dutia and linked
 
 **A Paradigm Shift: Performance-Focused Sport**	
 We conducted a 46-month study involving three adolescents with CPHSN in structured swimming exercise where periods of training were followed by periods of no training. All three participants were previously untrained and were not achieving physical activity levels recommended by the World Health Organisation (WHO) at the start of the study. The swimming program they engaged in was designed to be performance-driven - the goal was to enhance sports performance by focusing on swimming skills and increased training load. During the study, participants increased training load to levels consistent with WHO physical activity guidelines and the results were marked:	
-•	Motor function, as measured by the Gross Motor Function Measure (GMFM-66), improved across each training phase. This was opposite to the decline expected to occur based on previous population-based studies.	
-•	Participants improved their swimming performance, significantly increasing average swimming velocity.	
-•	Periods of training withdrawal led to measurable declines in motor function, reinforcing the effect of the training program.	
+- Motor function, as measured by the Gross Motor Function Measure (GMFM-66), improved across each training phase. This was opposite to the decline expected to occur based on previous population-based studies.	
+- Participants improved their swimming performance, significantly increasing average swimming velocity.	
+- Periods of training withdrawal led to measurable declines in motor function, reinforcing the effect of the training program.	
 
 **Why Goals in Sport Matter**	
 Setting and pursuing clear goals is an important part of achieving athletic success in athletes with and without disabilities. The competitive nature of sport and the drive to excel fosters discipline, motivation, and personal growth which may ultimately provide:	
-•	A sense of achievement: Rather than focusing on limitations, athletes work toward milestones in speed, endurance, and skill.	
-•	A structured environment: Regular training with coaches and therapists ensures consistency which is important to long-term progress.	
-•	Social engagement: Team settings are important to foster friendships and community connections.	
+- A sense of achievement: Rather than focusing on limitations, athletes work toward milestones in speed, endurance, and skill.	
+- A structured environment: Regular training with coaches and therapists ensures consistency which is important to long-term progress.	
+- Social engagement: Team settings are important to foster friendships and community connections.	
 
 **Removing Barriers to Participation**	
 Our article describes the concept of “Para Sport as Medicine” which suggests that intensive, performance-focused sports training can bring about significant functional benefits. However, despite these benefits, performance-focused sport remains inaccessible to many people with high support needs. The study highlights some of the key obstacles that ought to be addressed:	
