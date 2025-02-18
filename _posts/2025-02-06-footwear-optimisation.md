@@ -7,6 +7,10 @@ categories:
   - posts
 tags:
   - footwear
+  - individualisation
+  - running economy
+  - spring-mass
+  - interdependence
 ---
 This article examines a paper published in the Journal of Applied Biomechanics. You can find the paper <a href="https://journals.humankinetics.com/view/journals/jab/41/1/article-p1.xml" target="_blank">here</a>. Before delving into the framework, it’s helpful to first outline the key concepts of running economy, the spring-mass model, and advanced footwear technologies.
 
