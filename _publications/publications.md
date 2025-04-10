@@ -4,9 +4,25 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Weber, J., Rantalainen, T, Hart, N., Connick, M.J. and Newton, R. (Accepted 30.08.2023). Assessment of ground contact time in the field; evaluation of validity and reliability. Journal of Strength and Conditioning Research.
+Connick, M. J. (2025). [The role of propulsive force deterioration in the deceleration phase of elite sprinting](https://linkinghub.elsevier.com/retrieve/pii/S1440244025000921). Journal of Science and Medicine in Sport.
 
-Southey, B., Willshire, M., Connick, M. J., Austin, D., Spits, D. and Beckman, E. (In press). [Reactive Strength Index as a Key Performance Indicator in Different Athlete Populations – A Systematic Review](https://www.sciencedirect.com/science/article/pii/S0765159723001582?via%3Dihub). Science & Sports.
+Riveros-Matthey, C. D., Carroll, T. J., Connick, M., J. and Lichtwark, G. A. (2025). [An in-silico investigation of the effect of changing cycling crank power and cadence on muscle energetics and active muscle volume](https://www.sciencedirect.com/science/article/pii/S0021929025000417). Journal of Biomechanics, 180, 112530
+
+Southey, B. M., Connick, M. J., Spits, D. R., Austin, D. J. and Beckman, E. M. (2024). [A reliability and kinetic analysis of the 10/5 repeated jump and drop jump tests to determine the use of a novel reactive strength measure: The reactive quality ratio](https://hrcak.srce.hr/file/465730). Kinesiology 56(2024)2:198-204
+
+Connick, M. J. and Lichtwark, G. A. (2024). [Individualization of footwear for optimizing running economy: a theoretical framework](https://journals.humankinetics.com/view/journals/jab/41/1/article-p1.xml). Journal of Applied Biomechanics, 41(1): 1-7.
+
+Redman, K J., Wade, L., Whitley, R., Connick, M. J., Kelly, V. G. and Beckman, E. M. (2024). [Seasonal Muscular Power Changes: Considerations of Concurrent Resistance and Field-Based Training in Professional Rugby League](https://journals.lww.com/nsca-jscr/fulltext/2024/09000/seasonal_muscular_power_changes__considerations_of.12.aspx). Journal of Strength and Conditioning Research 38(9):1620-1626
+
+Reina, R., Beckman, E. M., Connick, M. J., Spathis, J. G. and Tweedy, S. M. (2024). [Evaluating the Validity of Tests to Predict Sprint and Change of Direction Speed in Para-Athletes With Brain Impairments](https://journals.humankinetics.com/view/journals/apaq/41/4/article-p593.xml). Adapted Physical Activity Quarterly, 41(4): 593-610.
+
+Dutia, I., Connick, M., Beckman, E., Johnston, L., Wilson, P., Macaro, A., O'Sullivan, J. and Tweedy, S. (2024). [The power of Para sport: the effect of performance-focused swimming training on motor function in adolescents with cerebral palsy and high support needs (GMFCS IV) – a single-case experimental design with 30-month follow-up](https://bjsm.bmj.com/content/bjsports/58/14/777.full.pdf). British Journal of Sports Medicine, 58:777–784.
+
+Riveros-Matthey, C. D., Connick, M., J., Lichtwark, G. A. and Carroll, T. J. (2024). [Cycling Cadence Selections at Different Saddle Heights Minimize Muscle Activation Rather Than Energy Cost](https://www.biorxiv.org/content/biorxiv/early/2024/06/02/2024.05.30.596596.full.pdf). bioRxiv, 2024.05. 30.596596.
+
+Weber, J., Rantalainen, T, Hart, N., Connick, M.J. and Newton, R. (2024). [Assessment of ground contact time in the field; evaluation of validity and reliability](https://pubmed.ncbi.nlm.nih.gov/38085634/). Journal of Strength and Conditioning Research, 38(1):e34-e39
+
+Southey, B., Willshire, M., Connick, M. J., Austin, D., Spits, D. and Beckman, E. (2023). [Reactive Strength Index as a Key Performance Indicator in Different Athlete Populations – A Systematic Review](https://www.sciencedirect.com/science/article/pii/S0765159723001582?via%3Dihub). Science & Sports,39 (2): 129-143.
 
 Connick, M. J., Beckman, E. and Tweedy, S. (2023). [Sprinting with bilateral transtibial running-specific prostheses versus biological limbs – are they comparable? Comments on Beck et al. (2022)](https://doi.org/10.1098/rsos.230086). Royal Society Open Science, 10(9). https://doi.org/10.1098/rsos.230086.
 
@@ -105,3 +121,5 @@ Tweedy, S. M., Connick, M. J., Burkett, B, Sayers, M., Meyer, C. and Vanlandewij
 Vanlandewijck, Y.C., Verellen, J., Beckman, E., Connick, M. and Tweedy, S.M. (2011). [Trunk strength impact on track wheelchair start: implications for classification](http://dx.doi.org/10.1249/MSS.0b013e318223af14). Medicine and Science in Sports and Exercise, 43(12):2344-2351 http://dx.doi.org/10.1249/MSS.0b013e318223af14.
 
 Burgess. K., Connick. M., Graham-Smith. P., Pearson. S. (2007). [Plyometric vs. isometric training influences on tendon properties and muscle output](https://pubmed.ncbi.nlm.nih.gov/17685695/). Journal of Strength and Conditioning Research. Aug; 21(3): 986-989.
+
+[def]: https://www.biorxiv.org/content/biorxiv/early/2024/06/02/2024.05.30.596596.full.pdf
