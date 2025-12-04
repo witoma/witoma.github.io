@@ -4,7 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Connick, M. J. (2025). [The role of propulsive force deterioration in the deceleration phase of elite sprinting](https://linkinghub.elsevier.com/retrieve/pii/S1440244025000921). Journal of Science and Medicine in Sport.
+Holmberg, P.M., James, L.P., Connick, M.J., Lamont, H.S., Watts, D.G. and Kelly, V.G. (2025).[Comparison of sprint and jump performance outcomes 6 hours following sprint-priming stimuli involving different external loads](https://journals.humankinetics.com/view/journals/ijspp/aop/article-10.1123-ijspp.2025-0121/article-10.1123-ijspp.2025-0121.xml). International Journal of Sports Physiology and Performance, 1-10.
+
+Olivier, M.H., Gorman, A.D., Connick, M.J., Holmberg, P.M., Desbrow, J. and Kelly, V.G. (2025). [The water polo intermittent shuttle test in women's water polo players](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsc.70074). European Journal of Sport Science, 25(11):e70074
+
+Southey, B.M., James, L.P., Connick, M.J., Austin, D.J., Wellington, B.M., Green, M.J., Scott, T.J., Spits, D.R. and Beckman, E.M. (2025). [A comparison of reactive strength in elite and sub-elite male and female Australian footballers](https://www.tandfonline.com/doi/full/10.1080/14763141.2025.2524349). Sports Biomechanics, 1-14, [https://doi.org/10.1080/14763141.2025.2524349](https://doi.org/10.1080/14763141.2025.2524349)
+
+Southey, B., Spits, D., Austin, D., Connick, M. and Beckman, E. (2025). [Determining the effects of a 6-week training intervention on reactive strength: a single-case experimental design approach](https://www.mdpi.com/2411-5142/10/2/191). J. Funct. Morphol. Kinesiol., 10(2):191.
+
+Connick, M. J. (2025). [The role of propulsive force deterioration in the deceleration phase of elite sprinting](https://linkinghub.elsevier.com/retrieve/pii/S1440244025000921). Journal of Science and Medicine in Sport, 28(8):676-682.
 
 Riveros-Matthey, C. D., Carroll, T. J., Connick, M., J. and Lichtwark, G. A. (2025). [An in-silico investigation of the effect of changing cycling crank power and cadence on muscle energetics and active muscle volume](https://www.sciencedirect.com/science/article/pii/S0021929025000417). Journal of Biomechanics, 180, 112530
 
