@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome. My qualifications include a PhD from University of Birmingham, UK and two degrees in Computer Science and Sports Science.
+Welcome. I hold undergraduate qualifications in Computer Science and Applied Sport Science, together with a PhD in Biomechanics and Physiology from the University of Birmingham (UK). My work combines analytical thinking, data science and applied research to develop practical solutions that improve decision-making across government, industry, health and sport.
 
-With expertise in sports biomechanics, exercise physiology, wearable teachnology, modelling and coding, my research aims to discover the mechanisms that operate the relationship between sports technology, biomechanics, physiology and sports performance. I have [published](/publications/) almost 50 scientific papers.  
+I specialise in the development of analytical frameworks, data integration methods, statistical modelling and decision-support tools for complex real-world problems. My work spans data analytics, biomechanics, physiology, wearable technologies, cloud-based platforms and software development, with a focus on translating complex information into practical insights that support policy, planning and operational decision-making.
 
-My applied work aims to create ways to improve practice. By leveraging knowledge and industry expertise I aim to create solutions that can be applied in the real-world environment. I am particularly excited about working with effective teams and individuals in the sports performance industry.  
+Throughout my career I have worked collaboratively with universities, government agencies, industry partners and community organisations to deliver projects with practical impact. These have ranged from statewide data frameworks and cloud-based analytics platforms to evidence-based systems adopted by international sporting organisations. While many of these projects have been undertaken within sport and health, the analytical approaches underpinning them are broadly applicable across sectors where data informs strategic decisions.
 
-I am currently a [consultant](/consultancy/) in a range of elite team sports, an applied sports scientist and a developer at [SpeedSig](https://www.speedsignature.com/). In addition, I am developing several projects (check the [projects page](/projects/)) and I am a visiting research fellow at [Queensland University of Technology](https://www.qut.edu.au/). Previously I was a lecturer and research fellow at University of Queensland.  
+I currently work across research, consulting and technology development, including collaborative projects with government, industry and community partners. My interests centre on developing innovative analytical solutions, building productive partnerships, and translating research and data into practical applications that create measurable value.
 
-Originally from England, I studied and worked in Manchester and Birmingham. I am now based in Brisbane, Australia. Please feel free to explore the site and [contact me](/contact/) if you would like to discuss ideas or collaborations on these or other projects. You can also find me via the links to the left of the page.
+I am based in Brisbane, Australia. Please feel free to explore the site, learn more about my projects, or get in touch if you would like to discuss opportunities for collaboration.
