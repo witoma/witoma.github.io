@@ -1,6 +1,6 @@
 ---
-title: "Shoe Lab"
-excerpt: "Shoe Lab estimates the direct effect of footwear on running economy <br/><img src='/images/shoe_app_all1.png'>"
+title: "Equivalent Footwear Mass Explorer"
+excerpt: "This app estimates the direct effect of footwear on running economy <br/><img src='/images/shoe_app_all1.png'>"
 collection: projects
 author_profile: false
 #permalink: /projects/projects-1
@@ -8,28 +8,28 @@ author_profile: false
 
 
 
-*What is Shoe Lab?*  
+*What is Equivalent Footwear Mass Explorer?*  
 
-Shoe Lab allows you to estimate the direct effect of footwear on running economy (RE). The <a href="https://runspeed.shinyapps.io/shoelab/" target="_blank">Shoe Lab</a> app can be found <a href="https://runspeed.shinyapps.io/shoelab/" target="_blank">here</a>.
+Equivalent Footwear Mass Explorer is an exploratory app that allows you to estimate the direct effect of footwear on running economy (RE). The <a href="https://fastr.shinyapps.io/footwearefm/" target="_blank">Equivalent Footwear Mass Explorer</a> app can be found <a href="https://fastr.shinyapps.io/footwearefm/" target="_blank">here</a>.
 <br>
 
 *What is RE?*  
 
-RE is a key determinant of distance running performance and is defined as the energy cost to move the centre of mass (COM) at a given race pace. A more economical runner uses smaller energy.  
+RE is a key determinant of distance running performance and is defined as the energy cost to move the centre of mass (COM) at a given race pace. A more economical runner uses less energy.  
 
 *Is footwear important for RE?*  
 
-Yes!  
+Yes. Footwear can meaningfully influence running economy (RE), and its importance has increased substantially over the past decade. With traditional footwear, differences in RE between models were generally relatively modest, and runners often selected shoes according to broad design categories, such as racing or training shoes, as well as factors such as comfort and fit.
 
-Footwear technology has changed over the preceding decade. Traditional footwear technologies (TFTs), - all available shoes prior to 2016 used TFTs - are not considered to have significantly different effects on RE. Runners selected footwear based on broad design features (e.g., a race shoe or a training shoe) and comfort. However, Advanced Footwear Technologies (AFTs) - which have been available since 2017 - are known to significantly improve RE compared to TFTs and have revolutionized competitive distance running. AFTs have been used in world record breaking performances across a range of distances from 5k up to the Marathon.  
+The introduction of Advanced Footwear Technologies (AFTs) from around 2017 changed this landscape. AFTs typically combine lightweight, highly resilient midsoles with increased stack height and stiffening elements such as carbon-fibre plates. These shoes have been shown to improve RE compared with traditional footwear, although the magnitude of the benefit varies considerably between shoes and between individual runners. AFTs have subsequently become widespread in competitive distance running and have been worn in world-record performances across distances from 5 km to the marathon.   
 
 
 *What is the mechanism that causes footwear to improve RE?*  
 
-AFTs differ from TFTs in several important ways, the key ones being they have thicker and more resilient midsoles, and they typically contain a curved carbon fiber plate. Both midsole properties and carbon fiber plates are believed to contribute to improved RE.  
+Advanced Footwear Technologies (AFTs) typically combine lightweight, thicker and more resilient midsoles with stiffening elements such as curved carbon-fibre plates. These features can improve running economy (RE) through both direct mechanical and biomechanically mediated effects.
 
-Midsole properties affect the foam's capacity to act as a spring. The midsole therefore affects the cost of cushioning and the energy returned during the propulsive phase of ground contact. Both of these effects directly influence COM energetics.  
+Midsole properties influence cushioning, energy storage and energy return, while lower-density foams can provide these benefits without substantially increasing shoe mass. Carbon-fibre plates increase longitudinal bending stiffness and alter foot and ankle mechanics, although the optimal stiffness appears to vary between runners.
 
-A curved carbon fiber plate increases the longitudinal bending stiffness of footwear which reduces the energy lost at the ankle and foot – especially at the metatarsophalangeal (MTP) joint. However, a stiffer carbon fiber plate is not always optimal. Studies indicate an optimal stiffness exists for each person based on individual body size and biomechanics. Carbon fiber plates therefore indirectly affect COM energetics.  
+It is therefore useful to view footwear effects on RE as a combination of the shoe’s direct mechanical properties and the way an individual runner biomechanically responds to them.
 
-The lower limb biomechanical variables mediating the relationship between footwear properties and RE have not been identified. However, to quantify the mediating effect of biomechanics first requires a theoretical model which can differentiate between the direct effect of footwear and the indirect effect of biomechanics.
+More information about these ideas can be found <a href="https://journals.humankinetics.com/view/journals/jab/41/1/article-p1.xml" target="_blank">here</a>  and <a href="https://sportrxiv.org/index.php/server/preprint/view/1024" target="_blank">here</a>

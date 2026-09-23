@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Connick,M.J.(2026).[A validated model for estimating the intrinsic direct mechanical effect of running footwear on running economy](https://sportrxiv.org/index.php/server/preprint/view/1024). Preprint. SportRxiv.
+
 Holmberg, P.M., James, L.P., Connick, M.J., Lamont, H.S., Watts, D.G. and Kelly, V.G. (2025).[Comparison of sprint and jump performance outcomes 6 hours following sprint-priming stimuli involving different external loads](https://journals.humankinetics.com/view/journals/ijspp/aop/article-10.1123-ijspp.2025-0121/article-10.1123-ijspp.2025-0121.xml). International Journal of Sports Physiology and Performance, 1-10.
 
 Olivier, M.H., Gorman, A.D., Connick, M.J., Holmberg, P.M., Desbrow, J. and Kelly, V.G. (2025). [The water polo intermittent shuttle test in women's water polo players](https://onlinelibrary.wiley.com/doi/full/10.1002/ejsc.70074). European Journal of Sport Science, 25(11):e70074
